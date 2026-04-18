@@ -5,9 +5,11 @@
   */
   --page-background: url("../images/cover-image-dark.png");
   --bg-color: #000028;
-  --title-color: #DB00FF;
+  --title-color: #db00ff;
   --text-shadow: #ff0070;
   --color-paragraf: #f1b2ce;
   --main-sub-title: #000028;
   --title: #ff0070;
+  --hover-button: #FF007066;
+  --display-rec: block;
 }
